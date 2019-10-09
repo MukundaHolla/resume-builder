@@ -1,0 +1,253 @@
+{
+  "data": {
+    "profileName": "Mukunda Holla M S",
+    "currentJobTitle": "Systems Engineer - Full Stack",
+    "expYrs": "1.9",
+    "introduction": "Rated as one of the top most employee at Infosys, with exerience of 1.9 years in trending frameworks and technologies in the industry. Eager to learn and apply the concepts to solve real world problems. My aim is to develop fast, scalable, secure and responsive websites following agile methodologies",
+    "experience": {
+      "projects": [
+        {
+          "dateFrom": "07-2019",
+          "dateTo": "present",
+          "jobTitle": "Systems Engineer",
+          "companyName": "Infosys Ltd",
+          "technologyTitle": "Java SpringBoot/ REST API/ Hibernate",
+          "projectDescription": "Developing General Data Protection Regulation(GDPR) for one of the leading retail stores in US.",
+          "projectResponsibilites": [
+            "Handle user request to remove or submit personal information.",
+            "Find all the user related data in existing system and remove the details completely.",
+            "Cover the functionalities with unit test cases with 100% test coverage."
+          ]
+        },
+        {
+          "dateFrom": "06-2019",
+          "dateTo": "07-2019",
+          "jobTitle": "Systems Engineer",
+          "companyName": "Infosys Ltd",
+          "technologyTitle": "Angular 8+/ Nodejs, Expressjs, REST API",
+          "projectDescription": "Developed a travel claim portal for company purpose.",
+          "projectResponsibilites": [
+            "Architectured and designed the portal.",
+            "Setup Nodejs, Expressjs to connect with DB",
+            "Completed REST API for the application"
+          ]
+        },
+        {
+          "dateFrom": "01-2019",
+          "dateTo": "06-2019",
+          "jobTitle": "Systems Engineer",
+          "companyName": "Infosys Ltd",
+          "technologyTitle": "Angular 6+/ Java SpringBoot",
+          "projectDescription": "Developed a product handling application with goes through supply chain of a retail store in US.",
+          "projectResponsibilites": [
+            "Architectured and designed most complicated dynamic table structure of application.",
+            "Thorough knowledge of Angular Material and its handling.",
+            "Gave ideas to improve the application which directly benefited clients.",
+            "Have experience using exclejs and other third party libraries.",
+            "Worked with cross platform issue in ie10,11 firefox and chrome."
+          ]
+        },
+        {
+          "dateFrom": "07-2018",
+          "dateTo": "12-2018",
+          "jobTitle": "Systems Engineer",
+          "companyName": "Infosys Ltd",
+          "technologyTitle": "Vue.js",
+          "projectDescription": "Developed a fast, scalable and responsive website for one of the leading big box retail stores in US.",
+          "projectResponsibilites": [
+            "Developed UI designs and wire frames into a functional web page with quality code.",
+            "Built re-usable components and front-end libraries to eliminate code duplication.",
+            "Used axios to fetch data from server to client.",
+            "Used external library called element.io for component usages.",
+            "Used a ag-grid for structuring tables in the application."
+          ]
+        },
+        {
+          "dateFrom": "02-2018",
+          "dateTo": "06-2018",
+          "jobTitle": "Intern",
+          "companyName": "Infosys",
+          "technologyTitle": "Angular, Java, Python, Soft Skills",
+          "projectDescription": "Training and internship under Infosys",
+          "projectResponsibilites": [
+            "Got trained on the leading technology in industry level standards from Infosys global education center mysore.",
+            "Completed a full-stack mini project under mentorship provided by Infosys educators."
+          ]
+        },
+        {
+          "dateFrom": "05-2017",
+          "dateTo": "06-2017",
+          "jobTitle": "Intern",
+          "companyName": "StartUp- CeDIR Software infosol Pvt.Ltd – Research and Development",
+          "technologyTitle": "Elastic Search, Python",
+          "projectDescription": "Developed a microservice to get article via RSS feed",
+          "projectResponsibilites": [
+            "Collecting articles from list of websites using RSS feeds and storing them in a database.",
+            "When requested, run the search query on the database and return that fit the criteria.",
+            "Learning the process of software production in a startup."
+          ]
+        },
+        {
+          "dateFrom": "04-2017",
+          "dateTo": "05-2017",
+          "jobTitle": "Intern",
+          "companyName": "Biztime IT solutions Pvt.Ltd – Enterprise Application Development",
+          "technologyTitle": "Angular 2",
+          "projectDescription": "Developed a enterprise application called expense tracker",
+          "projectResponsibilites": [
+            "A web application called Expense Tracker was built using MEAN stack. Front end was done using angular js 2, backend was done using mongodb, Rest API’s were done using nodejs and expressjs."
+          ]
+        }
+      ]
+    },
+    "portfolio": {
+      "projects": [
+        {
+          "jobTitle": "DevConnector",
+          "technologyTitle": "MongoDB, Expressjs, Nodejs, ReactJs(MERN stack)",
+          "projectDescription": "Developed a social networking app for developers to connect and share experience.",
+          "projectResponsibilites": [
+            "A developer can create a profile add experiences, education and post blogs and articles."
+          ]
+        },
+        {
+          "jobTitle": "Project/Idea Planning",
+          "technologyTitle": "ReactJs, Redux, Firebase",
+          "projectDescription": "An application to plan your projects instatly and share with your friends and colleagues.",
+          "projectResponsibilites": [
+            "Used Firebase cloud store as real time database.",
+            "Utilized redux to maintain and handle state and REST api calls"
+          ]
+        }
+      ]
+    },
+
+    "education": [
+      {
+        "dateFrom": "2014",
+        "dateTo": "2018",
+        "collegeName": "N.M.A.M Institute of Technology Mangalore |  8.55 CGPA",
+        "courseName": "Computer Science Engineering, B.E"
+      },
+      {
+        "dateFrom": "2012",
+        "dateTo": "2014",
+        "collegeName": "Canara PU College Mangalore |  91%",
+        "courseName": "PCMB, P.U.C"
+      },
+      {
+        "dateFrom": "2011",
+        "dateTo": "2012",
+        "collegeName": "Vasavi Vidyalaya High School  |  84.38%",
+        "courseName": "S.S.L.C"
+      }
+    ],
+    "awards": [
+      {
+        "title": "Rising Star Award",
+        "description": "Won this award in the category of best fresher, for delivering best solution to client and customer satisfaction."
+      },
+      {
+        "title": "Instant award - 2018",
+        "description": "Won this award as a part instant recognition of hard work and solution provided to the project.(Vue.js Project)"
+      },
+      {
+        "title": "Instant award - 2019",
+        "description": "Won this award as a part instant recognition of hard work and solution provided to the project.(Angular Project)"
+      }
+    ],
+    "hackathon": [
+      {
+        "title": "Infosys Global Hackathon 2019",
+        "description": "Runner up in \"Infosys Global Hackathon 2019\" at Infosys, Trivandrum DC for developing a mobile application to help the visually challenged people to identify currency notes using Google Cloud Vision. (65 Teams)"
+      }
+    ],
+    "certificates": [
+      {
+        "year": "2018",
+        "title": "Vue.js developer, UDEMY certification and LEX learning platform by Infosys."
+      },
+      {
+        "year": "2019",
+        "title": "Reactjs, UDEMY certification and LEX learning platform by Infosys."
+      },
+      {
+        "year": "2019",
+        "title": "Nodejs/ Exressjs, UDEMY certification and  LEX learning platform by Infosys."
+      }
+    ],
+    "personalInformation": [
+      {
+        "infoHeading": "Address",
+        "infoDescription": "'Prithvi', Sadananda Holla post yedabettu-sastana udupi taluk and district Karnataka-576226"
+      },
+      {
+        "infoHeading": "Phone",
+        "infoDescription": "8277012535"
+      },
+      {
+        "infoHeading": "E-mail",
+        "infoDescription": "mukunda05holla@gmail.com"
+      },
+      {
+        "infoHeading": "Date of birth",
+        "infoDescription": "12-05-1996"
+      },
+      {
+        "infoHeading": "Personal website",
+        "infoDescription": "https://holla-devconnector.herokuapp.com"
+      },
+      {
+        "infoHeading": "GitHub",
+        "infoDescription": "https://github.com/MukundaHolla"
+      },
+      {
+        "infoHeading": "LinkedIn",
+        "infoDescription": "https://www.linkedin.com/in/mukunda-holla-80125b122/"
+      }
+    ],
+    "skills": [
+      {
+        "skillName": "JavaScript",
+        "rating": "8",
+        "skillDetails": "HTML 5, CSS3, JS"
+      },
+      {
+        "skillName": "Vue.js",
+        "rating": "8",
+        "skillDetails": "Certification from UDEMY"
+      },
+      {
+        "skillName": "Angular 8+",
+        "rating": "9",
+        "skillDetails": "Thorough with Angular Material"
+      },
+      {
+        "skillName": "Reactjs",
+        "rating": "7",
+        "skillDetails": "Certification from UDEMY"
+      },
+      {
+        "skillName": "Node.js / Express.js",
+        "rating": "8",
+        "skillDetails": "Certification from UDEMY"
+      },
+      {
+        "skillName": "Java",
+        "rating": "8",
+        "skillDetails": "Thorough with Hibernate concepts"
+      },
+      {
+        "skillName": "SpringBoot",
+        "rating": "7",
+        "skillDetails": ""
+      },
+      {
+        "skillName": "MongoDB",
+        "rating": "7",
+        "skillDetails": ""
+      }
+    ],
+    "languages": ["English", "Kannada", "Hindi", "Tulu", "Malayalam"]
+  }
+}
