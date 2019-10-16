@@ -113,7 +113,7 @@
         {
           "jobTitle": "Project/Idea Planning",
           "technologyTitle": "ReactJs, Redux, Firebase",
-          "projectDescription": "An application to plan your projects instatly and share with your friends and colleagues.",
+          "projectDescription": "An application to plan your projects instantly and share with your friends and colleagues.",
           "projectResponsibilites": [
             "Used Firebase cloud store as real time database.",
             "Utilized redux to maintain and handle state and REST api calls"
