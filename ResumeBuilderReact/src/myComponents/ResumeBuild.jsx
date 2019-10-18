@@ -41,14 +41,15 @@ class ResumeBuild extends React.Component {
                       </div>
                       <div className='experience__project divisionDetailsGlobal'>
                         <h5 className='experience__project__jobTitle mainHeadingGlobal'>
-                          {project.jobTitle}
-                        </h5>
-                        <h6 className='experience__project__companyName'>
-                          {project.companyName}
-                        </h6>
-                        <p className='experience__project__technologyTitle subHeadingGlobal headingUnderlineGlobal'>
                           {project.technologyTitle}
+                        </h5>
+                        {/* <p className='experience__project__jobTitle mainHeadingGlobal'>
+                          {project.jobTitle}
+                        </p> */}
+                        <p className='experience__project__companyName'>
+                          {project.companyName}
                         </p>
+
                         <p className='experience__project__projectDescription descriptionGlobal'>
                           {project.projectDescription}
                         </p>

@@ -1,9 +1,9 @@
 {
   "data": {
     "profileName": "Mukunda Holla M S",
-    "currentJobTitle": "Systems Engineer - Full Stack",
+    "currentJobTitle": "Full Stack Developer",
     "expYrs": "1.9",
-    "introduction": "Rated as one of the top most employee at Infosys, with exerience of 1.9 years in trending frameworks and technologies in the industry. Eager to learn and apply the concepts to solve real world problems. My aim is to develop fast, scalable, secure and responsive websites following agile methodologies",
+    "introduction": "I believe in continuous learning and improving of my skills and value so that i can contribute to build the quality, resuable applications to the betterment of society.",
     "experience": {
       "projects": [
         {
@@ -184,7 +184,7 @@
       },
       {
         "infoHeading": "Phone",
-        "infoDescription": "8277012535"
+        "infoDescription": "8317409837"
       },
       {
         "infoHeading": "E-mail",
@@ -200,18 +200,18 @@
       },
       {
         "infoHeading": "GitHub",
-        "infoDescription": "https://github.com/MukundaHolla"
+        "infoDescription": "https://github.com/mukundaholla"
       },
       {
         "infoHeading": "LinkedIn",
-        "infoDescription": "https://www.linkedin.com/in/mukunda-holla-80125b122/"
+        "infoDescription": "https://www.linkedin.com/in/mukundaholla/"
       }
     ],
     "skills": [
       {
-        "skillName": "JavaScript",
+        "skillName": "Advanced JavaScript",
         "rating": "8",
-        "skillDetails": "HTML 5, CSS3, JS"
+        "skillDetails": "HTML 5, CSS3, Bootstrap"
       },
       {
         "skillName": "Vue.js",
@@ -225,7 +225,7 @@
       },
       {
         "skillName": "Reactjs",
-        "rating": "7",
+        "rating": "8",
         "skillDetails": "Certification from UDEMY"
       },
       {
@@ -241,7 +241,7 @@
       {
         "skillName": "SpringBoot",
         "rating": "7",
-        "skillDetails": ""
+        "skillDetails": "v2.1.5"
       },
       {
         "skillName": "MongoDB",
