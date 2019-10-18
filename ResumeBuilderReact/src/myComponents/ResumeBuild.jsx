@@ -97,7 +97,7 @@ class ResumeBuild extends React.Component {
               <div className='experience sectionsGlobal'>
                 <div className='icon icon-experience'>
                   {/* <IconExperience /> */}
-                  <h3 className='sectionHeadingGlobal'>Portfolio Projects</h3>
+                  <h3 className='sectionHeadingGlobal'>Personal Projects</h3>
                 </div>
                 {resumeDataObj.portfolio.projects.map(project => {
                   let projectDivision = (
