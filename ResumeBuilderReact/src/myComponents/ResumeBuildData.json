@@ -14,9 +14,9 @@
           "technologyTitle": "Java SpringBoot/ REST API/ Hibernate",
           "projectDescription": "Developing General Data Protection Regulation(GDPR) for one of the leading retail stores in US.",
           "projectResponsibilites": [
-            "Handle user request to remove or submit personal information.",
-            "Find all the user related data in existing system and remove the details completely.",
-            "Cover the functionalities with unit test cases with 100% test coverage."
+            "Used IBM MQ to handle the load of user request to do the GDPR operations",
+            "Used Java springboot as backend to develop the persistence, service and REST API of the application",
+            "Worked on unit test librabries like Mockito and EasyMock as part of TDD"
           ]
         },
         {
@@ -27,9 +27,9 @@
           "technologyTitle": "Angular 8+/ Nodejs, Expressjs, REST API",
           "projectDescription": "Developed a travel claim portal for company purpose.",
           "projectResponsibilites": [
-            "Architectured and designed the portal.",
-            "Setup Nodejs, Expressjs to connect with DB",
-            "Completed REST API for the application"
+            "Architectured and designed the portal",
+            "Worked on Nodejs, Expressjs as backend and MongoDB as database",
+            "Designed the UI,UX using Angular 8+ and used angular material to style up the UI"
           ]
         },
         {
@@ -40,11 +40,11 @@
           "technologyTitle": "Angular 6+/ Java SpringBoot",
           "projectDescription": "Developed a product handling application with goes through supply chain of a retail store in US.",
           "projectResponsibilites": [
-            "Architectured and designed most complicated dynamic table structure of application.",
-            "Thorough knowledge of Angular Material and its handling.",
-            "Gave ideas to improve the application which directly benefited clients.",
-            "Have experience using exclejs and other third party libraries.",
-            "Worked with cross platform issue in ie10,11 firefox and chrome."
+            "Architectured and designed most complicated dynamic table structure of application",
+            "Thorough knowledge of Angular Material and its handling",
+            "Gave client demos and design improvment ideas which lead direct benefit to client",
+            "Used exclejs and other third party libraries",
+            "Worked with cross platform issue in ie10,11 firefox and chrome"
           ]
         },
         {
@@ -55,11 +55,11 @@
           "technologyTitle": "Vue.js",
           "projectDescription": "Developed a fast, scalable and responsive website for one of the leading big box retail stores in US.",
           "projectResponsibilites": [
-            "Developed UI designs and wire frames into a functional web page with quality code.",
-            "Built re-usable components and front-end libraries to eliminate code duplication.",
-            "Used axios to fetch data from server to client.",
-            "Used external library called element.io for component usages.",
-            "Used a ag-grid for structuring tables in the application."
+            "Developed UI designs and wire frames into a functional web page with quality code",
+            "Built re-usable components and front-end libraries to eliminate code duplication",
+            "Used axios to fetch data from server to client",
+            "Used external library called element.io for component usages",
+            "Used a ag-grid for structuring tables in the application"
           ]
         },
         {
@@ -82,9 +82,8 @@
           "technologyTitle": "Elastic Search, Python",
           "projectDescription": "Developed a microservice to get article via RSS feed",
           "projectResponsibilites": [
-            "Collecting articles from list of websites using RSS feeds and storing them in a database.",
-            "When requested, run the search query on the database and return that fit the criteria.",
-            "Learning the process of software production in a startup."
+            "Learnt the process of software production in a startup environment",
+            "Collecting articles from list of websites using RSS feeds and storing them in a database and query them based on conditions"
           ]
         },
         {
@@ -92,10 +91,10 @@
           "dateTo": "05-2017",
           "jobTitle": "Intern",
           "companyName": "Biztime IT solutions Pvt.Ltd – Enterprise Application Development",
-          "technologyTitle": "Angular 2",
+          "technologyTitle": "Angular/ Nodejs, Expressjs, MongoDB",
           "projectDescription": "Developed a enterprise application called expense tracker",
           "projectResponsibilites": [
-            "A web application called Expense Tracker was built using MEAN stack. Front end was done using angular js 2, backend was done using mongodb, Rest API’s were done using nodejs and expressjs."
+            "A web application called Expense Tracker was built using MEAN stack. Front end was done using angular js, backend was done using mongodb, Rest API’s were done using nodejs and expressjs."
           ]
         }
       ]
@@ -107,7 +106,9 @@
           "technologyTitle": "MongoDB, Expressjs, Nodejs, ReactJs(MERN stack)",
           "projectDescription": "Developed a social networking app for developers to connect and share experience.",
           "projectResponsibilites": [
-            "A developer can create a profile add experiences, education and post blogs and articles."
+            "A developer can create a profile add experiences, education and post blogs and articles",
+            "Used redux to handle the state of the application",
+            "Woked on bcryptjs to encrypt the user data and used jsonwebtoken(JWT) to secure the application"
           ]
         },
         {
@@ -115,7 +116,7 @@
           "technologyTitle": "ReactJs, Redux, Firebase",
           "projectDescription": "An application to plan your projects instantly and share with your friends and colleagues.",
           "projectResponsibilites": [
-            "Used Firebase cloud store as real time database.",
+            "Used Firebase firestore as real time database",
             "Utilized redux to maintain and handle state and REST api calls"
           ]
         }
