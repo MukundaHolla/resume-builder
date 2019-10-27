@@ -93,6 +93,28 @@ class ResumeBuild extends React.Component {
                   return hackathonDivision;
                 })}
               </div>
+              {/* this section is for awards */}
+              <div className='hackathon sectionsGlobal'>
+                <div className='icon icon-experience'>
+                  {/* <IconIdea /> */}
+                  <h3 className='sectionHeadingGlobal'>Awards</h3>
+                </div>
+                {resumeDataObj.awards.map(hakathonObj => {
+                  let hackathonDivision = (
+                    <div className='hackathon__division'>
+                      <div className='hackathon__project'>
+                        <h5 className='hackathon__project__jobTitle mainHeadingGlobal'>
+                          {hakathonObj.title}
+                        </h5>
+                        <p className='hackathon__description descriptionGlobal'>
+                          {hakathonObj.description}
+                        </p>
+                      </div>
+                    </div>
+                  );
+                  return hackathonDivision;
+                })}
+              </div>
 
               <div className='experience sectionsGlobal'>
                 <div className='icon icon-experience'>
